@@ -24,6 +24,7 @@ En mi primer caso de estudio, presento Meta Horizon: Worlds, El que pretende ser
 ![Comunidad Meta Horizon](https://scontent.fmad7-1.fna.fbcdn.net/v/t39.8562-6/247132811_572761867322348_1020076901824212424_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6825c5&_nc_ohc=rQEWdOz3it8AX9R77ml&_nc_ht=scontent.fmad7-1.fna&oh=00_AfDDKpR50e2CRu8yCMPf9mMqMrHeP0MH8nAprht8FmCWMQ&oe=63A88E0B )
 
 Un par de años más tarde, concretamente en diciembre del 2021 se lanza Meta Horizon: Worlds al publico en EEUU y Canadá, en agosto del 2022 aterrizó en España y Francia, ahora siendo un juego multimedia, que permite interrelacionar personas dentro de un mundo virtual, el cual podemos descubrir a través de un avatar que desplazaremos usando las Oculus VR.
+
 ![Mundo Meta Horizon](https://scontent.fmad7-1.fna.fbcdn.net/v/t39.8562-6/248433689_585398729451895_6392349020024672637_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6825c5&_nc_ohc=Bub1f4oprH0AX_w6-7m&_nc_ht=scontent.fmad7-1.fna&oh=00_AfD2HmY6vE3CygQXj141scY2WU1w2_bIthVJ3uUNtqHI0g&oe=63A7D706)
 
 Meta Horizon: Wolds, es claro ejemplo de hibridación, mezcla los algoritmos de iteración de Facebook, permite jugar, con otras personas como estamos acostumbrado en otros juegos multijugados, en este caso integrando el hardware de Oculus VR, creando una nueva experiencia relacional inmersiva que promete integrarnos en este nuevo mundo.
